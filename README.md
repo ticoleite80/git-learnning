@@ -1,6 +1,6 @@
 # Utliza a sintaxe MARKDOWN (Titulo)
 
-![./README.png](Thiago Leite)
+![Thiago Leite](./README.png)
 
 Novo repo para aprendizado.
 
